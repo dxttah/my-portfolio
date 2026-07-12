@@ -8,7 +8,7 @@ function Links() {
   const links = [
     {
       name: "Github",
-      url: "https://github.com/codeAmbivert",
+      url: "https://github.com/dkxtah",
     },
     {
       name: "LinkedIn",
